@@ -14,7 +14,7 @@ Traffic lights in the middle of the streets which turns on manually by clicking 
 
 ### Contributors 
 
-- [Osama-Yusuf](https://github.com/Osama-Yusuf)
+- [Osama Yusuf](https://github.com/Osama-Yusuf)
 
 ---
 
