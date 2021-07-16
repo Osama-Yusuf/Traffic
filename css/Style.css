@@ -1,0 +1,98 @@
+body {
+    overflow: hidden;
+    background-image: url(../images/street_road_city_132972_3840x2160.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 98vw;
+    height: 98vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.scndcontainer {
+    width: 90px;
+    height: 275px;
+    border-radius: 30px;
+    /* border: 2pxsolid; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #74757e;
+    bottom: 50px;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0px 0px 25px 1px black inset;
+    border: solid .8px black;
+}
+
+.box {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: 0px 0px 3px .9px #1a0c0c inset;
+}
+
+.one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(99, 11, 11);
+
+}
+
+.red-on {
+    background-color: rgb(250, 71, 71);
+    box-shadow: 0px 0px  10px 1.5px #1a0c0c inset;
+}
+
+
+.two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(71, 71, 8);
+    
+}
+
+.yellow-on {
+    background-color: rgb(207, 207, 76);
+    box-shadow: 0px 0px 10px 1.5px #1a0c0c inset;
+}
+
+.three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(10, 77, 10);
+}
+
+.green-on {
+    background-color: rgb(60, 190, 60);
+    box-shadow: 0px 0px 10px 1.5px #1a0c0c inset;
+
+}
+
+
+
+
+i {
+    font-size: 35px;
+}
+
+.handle {
+    height: 200px;
+    width: 23px;
+    border: .1px solid;
+    margin: 350px 0 0 0;
+    position: absolute;
+    background-color: rgba(97, 96, 96, 0.993);
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px 5px rgb(32, 24, 24) inset;
+}
