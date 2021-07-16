@@ -6,4 +6,4 @@ Traffic lights in the middle of the streets which turns on manually by clicking 
 
 - HTML5
 - CSS3
-- JavaScript ES6
+- JQuery
